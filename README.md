@@ -2,15 +2,10 @@
 [![npm](https://img.shields.io/npm/v/vue-easytable.svg)](https://www.npmjs.com/package/vue-easytable)
 [![npm](https://img.shields.io/npm/l/vue-easytable.svg?maxAge=2592000)](http://www.opensource.org/licenses/mit-license.php)
 
-# vue-easytable
-
-[切换中文](https://github.com/huangshuwei/vue-easytable/blob/master/README-CN.md)
-
-
 ## Introduction
 Based on vue2.x flexible table components.
 
-## API & Examples(如果访问不了说明被墙了，我也很无奈......)
+## API & Examples
 [API&Examples](http://doc.huangsw.com/vue-easytable/app.html#/install)
 
 ## Features
